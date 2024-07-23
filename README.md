@@ -1,6 +1,6 @@
 # Imagify
 
-Imagify is a Next.js application that allows users to generate images based on their text prompts using an AI image generation API. The app provides an intuitive interface for entering prompts, generating images, and downloading the results.
+Imagify is a Next.js application that allows users to generate images using Stable Diffusion XL Lightning Model and Cloudflare AI Workers based on their text prompts. The app provides an intuitive interface for entering prompts, generating images, and downloading the results. 
 
 ## Features
 
