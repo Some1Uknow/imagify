@@ -4,9 +4,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Imagify",
+  title: "AI Image Generator",
   description: "Text to Image",
-  keywords: ["Text to image", "AI image", "AI Art", "Generate Image"],
+  keywords: ["Text to image", "AI image", "AI Image Generator", "AI Art", "Generate Image", "Midjourney", "DALL-E", "ChatGPT", "Generate Image using AI"],
 };
 
 export default function RootLayout({ children }) {
