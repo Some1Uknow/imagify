@@ -1,5 +1,3 @@
-
-
 export default function sitemap() {
   const baseUrl = 'https://imagify.pages.dev' 
 

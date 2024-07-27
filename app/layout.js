@@ -6,7 +6,25 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "AI Image Generator",
   description: "Text to Image",
-  keywords: ["Text to image", "AI image", "AI Image Generator", "AI Art", "Generate Image", "Midjourney", "DALL-E", "ChatGPT", "Generate Image using AI"],
+  keywords: [
+    "Text to image",
+    "AI image",
+    "AI Image Generator",
+    "AI Art",
+    "Generate Image",
+    "Midjourney",
+    "DALL-E",
+    "ChatGPT",
+    "Generate Image using AI",
+    "AI",
+    "image generation",
+    "text to image",
+    "Stable Diffusion",
+    "machine learning",
+    "image modification",
+    "modify images",
+    "image to image",
+  ],
 };
 
 export default function RootLayout({ children }) {
